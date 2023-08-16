@@ -1,1 +1,1 @@
-# Awesome_multimodal_instruction_learning
+# Awesome-multimodal-instruction-learning
