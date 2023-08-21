@@ -9,7 +9,6 @@
 
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
-<--!|6|3D-LLM: Injecting the 3D World into Large Language Models ([paper](https://arxiv.org/pdf/2307.12981.pdf))|arvix 2023.07|[code](https://github.com/UMass-Foundation-Model/3D-LLM)|3D|new setting|!-->
 |5|BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs ([paper](https://arxiv.org/pdf/2307.08581.pdf))|arvix 3023.07|[code](https://bubo-gpt.github.io/)|output with position|new setting|
 |4|ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning ([paper](https://arxiv.org/pdf/2307.09474.pdf))|arvix 2023.07|[demo](https://chatspot.streamlit.app/)|input with position|new setting|
 |3|Kosmos-2: Grounding Multimodal Large Language Models to the World ([paper](https://arxiv.org/pdf/2306.14824.pdf))|arvix 3023.06|[code](https://github.com/microsoft/unilm/tree/master/kosmos-2)|grounding|new setting|
