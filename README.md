@@ -1,6 +1,10 @@
 # Awesome-instruction-learning
 
-**Multimodal-instruction-learning**
+## Video
+| number| Title | speaker| year | Keywords |  quality |
+|1||预训练，指令微调，对齐，专业化：论大语言模型能力的来源([bilibili](https://www.bilibili.com/video/BV1Qs4y1h7pn/?spm_id_from=333.337.search-card.all.click&vd_source=1e56e543df459fd7c33c61150c03f22f))|[yao fu]()|2023.02|LLM, pre-training, instruction tuning, alignment, specialization|\*\*\*\*\*|
+
+## Multimodal-instruction-learning
 
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
@@ -12,7 +16,7 @@
 |1|LLaVA: Large Language and Vision Assistant ([paper](https://arxiv.org/pdf/2304.08485.pdf))|arvix 2023.04|[code](https://github.com/haotian-liu/LLaVA)|New dataset, novel method|the pioneering work|
 
 
-**Language-instruction-learning**
+## Language-instruction-learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
 |3|Self-Instruct: Aligning Language Models with Self-Generated Instructions ([paper](https://arxiv.org/pdf/2212.10560.pdf))|arvix 2023.08||novel method for dataset generation|good idea|
