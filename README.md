@@ -3,7 +3,7 @@
 ## Video
 | number| Title | speaker| year | Keywords |  quality |
 |  --- |----  | ----  | ---- | ---- | ---- |
-|1|预训练，指令微调，对齐，专业化：论大语言模型能力的来源([bilibili](https://www.bilibili.com/video/BV1Qs4y1h7pn/?spm_id_from=333.337.search-card.all.click&vd_source=1e56e543df459fd7c33c61150c03f22f))|[yao fu](https://franxyao.github.io/)|2023.02|LLM, pre-training, instruction tuning, alignment, specialization|&#9733;&#9733;&#9733;&#9733;&#9733;|
+|1|预训练，指令微调，对齐，专业化：论大语言模型能力的来源([bilibili](https://www.bilibili.com/video/BV1Qs4y1h7pn/?spm_id_from=333.337.search-card.all.click&vd_source=1e56e543df459fd7c33c61150c03f22f))|[yao fu](https://franxyao.github.io/)，University of Edinburgh|2023.02|LLM, pre-training, instruction tuning, alignment, specialization|&#9733;&#9733;&#9733;&#9733;&#9733;|
 
 ## Multimodal-instruction-learning
 
