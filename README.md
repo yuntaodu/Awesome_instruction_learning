@@ -19,6 +19,7 @@
 ## Language-instruction-learning
 | number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
 |  --- |----  | ----  | ---- | ---- | ---- |
+|4|INSTRUCTZERO: EFFICIENT INSTRUCTION OPTIMIZATION FOR BLACK-BOX LARGE LANGUAGE MODELS([paper](https://arxiv.org/pdf/2306.03082.pdf))|arvix 2023.06||distill|good idea|
 |3|Self-Instruct: Aligning Language Models with Self-Generated Instructions ([paper](https://arxiv.org/pdf/2212.10560.pdf))|arvix 2023.08||novel method for dataset generation|good idea|
 |2|INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models([paper](https://arxiv.org/pdf/2306.04757.pdf))|arvix 2023.06||||
 |1|Scaling Instruction-Finetuned Language Models||||
