@@ -24,3 +24,8 @@
 |2|INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models([paper](https://arxiv.org/pdf/2306.04757.pdf))|arvix 2023.06||||
 |1|Scaling Instruction-Finetuned Language Models||||
 
+
+## Specialization
+| number| Title   | Conference/journel + year| Code | Keywords |  Benenit for us |
+|  --- |----  | ----  | ---- | ---- | ---- |
+|1|Specializing Smaller Language Models towards Multi-Step Reasoning([paper]())|ICML 2023||Multi-step reasoning|template|
